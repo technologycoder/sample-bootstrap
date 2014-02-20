@@ -1,0 +1,7 @@
+#header-top {
+  background-color: #ff8100;
+  padding: 0;
+  margin: 0; }
+  #header-top #app-title {
+    color: white;
+    text-transform: uppercase; }

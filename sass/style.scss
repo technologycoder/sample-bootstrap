@@ -1,0 +1,19 @@
+//@import "compass/css3";
+//@import "compass/utilities";
+
+
+$blue: #2a85c6;
+$green: #009900;
+$orange: #ff8100;
+$silver: #d5d5d5;
+
+#header-top {
+  background-color: $orange;
+  padding: 0;
+  margin: 0;
+
+  #app-title {
+    color: white;
+    text-transform: uppercase;
+  }
+}
